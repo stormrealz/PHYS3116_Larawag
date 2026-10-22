@@ -1,0 +1,1 @@
+This are some roughly made data visualisation scripts made in python with the assistance of AI just to help with initial comprehension of the dataset. They are not intended for the final submission as they are not well documented and the code is not very clean. - Matt
