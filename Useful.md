@@ -107,3 +107,7 @@ The catalogue uses a two-level pandas MultiIndex header:
 3. **Radial Velocities:**
    - `v_r` is heliocentric (relative to the Sun).
    - `v_LSR` corrects for the Sun's orbital motion; a negative `v_LSR` does **not** mean retrograde Galactic rotation (it only means motion toward the Sun). Proper 3D tangential velocities require Gaia proper motions.
+
+   TODO: add guide for filtered data sets
+
+   
