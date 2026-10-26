@@ -1,4 +1,4 @@
-# Meeting Notes — Week 5
+# Meeting Notes — Week 6
 
 
 **Date:** 22/10/2026 
