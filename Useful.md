@@ -1,4 +1,7 @@
-# Master Catalogue Data Dictionary (`master_catalogue.csv`)
+# Master Catalogue Data Dictionary 
+This Dictionary was made using generative AI to aid in interpretation of data sets in the master_catalogue.
+
+(`master_catalogue.csv`)
 
 The catalogue uses a two-level pandas MultiIndex header:
 - **Level 0 (`source`)**: Source dataset (`meta`, `h1`, `h3`, `k`, `vb`).

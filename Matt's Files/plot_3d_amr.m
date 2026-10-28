@@ -1,4 +1,5 @@
 %% 3D Age–Metallicity–Galactocentric Distance Plot
+% made using AI for rapid prototyping of data visualisation possibilities
 % Milky Way Globular Clusters: VandenBerg (2013) vs. Krause (2021)
 %
 % Axes:
